@@ -14,6 +14,7 @@ This assembly program calculates the sum of an array of integers. It takes in th
 This program compares the values of two registers, R0 and R1, and performs arithmetic operations on them based on the comparison. If R0 is greater than R1, the program skips to the label "ifend". Otherwise, it calculates the value of (a + b) and assigns the result to R0, then calculates the value of (a + b - 3) and assigns it to R2. The final value of R2 is then moved to R0.
 
 ## 1 of 4 Decoder Logic Circuit
- 
-## Half Adder Logic Circuit
+![alt text](https://github.com/davorono/computer-architecture-and-assembly/blob/main/1of4Decoder.png?raw=true)
 
+## Half Adder Logic Circuit
+![alt text](https://github.com/davorono/computer-architecture-and-assembly/blob/main/halfadder.PNG?raw=true)
